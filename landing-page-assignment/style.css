@@ -274,3 +274,44 @@ a {
   padding-bottom: 20px;
   margin-bottom: 20px;
 }
+
+
+.call-to-action {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 25px;
+  margin: 25px;
+
+}
+
+.cta {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 65%;
+  gap: 10%;
+  color: #F9FAF8;
+  border-color: #3882F6;
+  background-color: #3882F6;
+  border-style: solid;
+  border-radius: 8px;
+  padding: 25px;
+  margin: 15px;
+
+}
+
+.cta-title {
+  font-weight: 900;
+}
+
+.cta-button button {
+  color: #F9FAF8;
+  border-color: #F9FAF8;
+  border-style: solid;
+  border-radius: 8px;
+
+}
+
+
