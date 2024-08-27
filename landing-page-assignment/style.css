@@ -315,3 +315,12 @@ a {
 }
 
 
+.footer {
+  color: #E5E7EB;
+  background-color: #1F2937;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 35px;
+  margin: 35px;
+}
